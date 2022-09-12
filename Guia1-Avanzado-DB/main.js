@@ -1,0 +1,67 @@
+let alumnos = [
+    {
+        nombre: "Juan",
+        apellido: "Gomez",
+        dni: "45345678",
+        anio: "4",
+        curso: "A",
+        nota: "8",
+    },
+    {
+        
+        nombre: "Manuel",
+        apellido: "Magni",
+        dni: "45678923",
+        anio: "4",
+        curso: "A",
+        nota: "3",
+    },
+    {
+        nombre: "Franco",
+        apellido: "Sandri",
+        dni: "46960579",
+        anio: "5",
+        curso: "A",
+        nota: "2",
+    },
+    {
+        nombre: "Iñaki",
+        apellido: "Urizar",
+        dni: "46026958",
+        anio: "5",
+        curso: "A",
+        nota: "1",
+    },
+    {
+        nombre: "Bautista",
+        apellido: "Malumian",
+        dni: "47356372",
+        anio: "4",
+        curso: "B",
+        nota: "9",
+    },
+    {
+        nombre: "Juan",
+        apellido: "Pollo",
+        dni: "47234589",
+        anio: "4",
+        curso: "B",
+        nota: "7",
+    },
+    {
+        nombre: "",
+        apellido: "",
+        dni: "",
+        anio: "",
+        curso: "",
+        nota: "",
+    },
+    {
+        nombre: "",
+        apellido: "",
+        dni: "",
+        anio: "",
+        curso: "",
+        nota: "",
+    }
+]
